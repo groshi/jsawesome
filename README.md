@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
