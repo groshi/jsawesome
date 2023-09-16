@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add distance calculation feature in vision-eye (#8616)
