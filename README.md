@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Fix ONNX GPU inference bug (#6840)
